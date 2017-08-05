@@ -1,0 +1,41 @@
+body {
+	background-color: #d5d1b5;
+}
+
+a {
+	color: #fff;
+	text-decoration: none;
+}
+
+.navbar {
+	background-color: #de4918;
+	height: 125px;
+	width: 100%;
+	color: #fff;
+	font-family: Verdana, Geneva, sans-serif;
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+}
+
+.bottom-banner {
+	background-color: #de4918;
+	height: 125px;
+	width: 99%;
+	position: fixed;
+	bottom: 0;
+}
+
+.info {
+	padding-left: 15px;
+}
+
+.links {
+	padding-right: 15px;
+}
+
+#name {
+	color: #fff;
+	font-size: 35px;
+
+}
